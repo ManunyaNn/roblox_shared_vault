@@ -77,9 +77,35 @@
               "icon": "excalidraw-icon",
               "title": "ПЛАН"
             }
+          },
+          {
+            "id": "38509a128574e007",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ПЛАН.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "ПЛАН"
+            }
+          },
+          {
+            "id": "aa97a1472766c726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -253,17 +279,18 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ddb74439e02b0d8c",
+  "active": "aa97a1472766c726",
   "lastOpenFiles": [
-    "Core_gameplay.md",
+    "Текстовый документ.txt",
     "ПЛАН.md",
+    "conflict-files-obsidian-git.md",
+    "Core_gameplay.md",
     "Основной Геймплей.md",
     "Pasted Image 20260121175126_382.png",
     "Монетизация.md",
     "Без вапвыапывапывапрфвпр.md",
     "Pasted Image 20260121184431_992.png",
     "Pasted Image 20260121184513_506.png",
-    "conflict-files-obsidian-git.md",
     "Привет Марк.md",
     "Pasted Image 20260121171922_612.png",
     "Drawing 2026-01-21 16.52.28.excalidraw.md",
