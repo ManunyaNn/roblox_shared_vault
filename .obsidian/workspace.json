@@ -82,26 +82,28 @@
             "id": "38509a128574e007",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ПЛАН.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ПЛАН"
-            }
-          },
-          {
-            "id": "aa97a1472766c726",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Core_gameplay.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Core_gameplay"
+            }
+          },
+          {
+            "id": "dcaaa953156cd9ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Заметки.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Заметки"
             }
           }
         ],
@@ -279,12 +281,16 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "aa97a1472766c726",
+  "active": "dcaaa953156cd9ad",
   "lastOpenFiles": [
-    "Текстовый документ.txt",
+    "{C0C98062-907E-4F34-9A3A-89184001A388}.png",
+    "Pasted image 20260123190949.png",
+    "{F8A8C725-B278-4370-AC52-722326101AB1}.png",
+    "Core_gameplay.md",
+    "Заметки.md",
     "ПЛАН.md",
     "conflict-files-obsidian-git.md",
-    "Core_gameplay.md",
+    "Текстовый документ.txt",
     "Основной Геймплей.md",
     "Pasted Image 20260121175126_382.png",
     "Монетизация.md",
