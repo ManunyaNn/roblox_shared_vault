@@ -96,12 +96,14 @@
             "id": "dcaaa953156cd9ad",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20260123190949.png"
+                "file": "Заметки/Заметки по скриптам.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260123190949"
+              "icon": "lucide-file",
+              "title": "Заметки по скриптам"
             }
           }
         ],
@@ -279,15 +281,16 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "ff184dbdf5719114",
+  "active": "dcaaa953156cd9ad",
   "lastOpenFiles": [
-    "Заметки",
+    "{7BD44D9C-253A-4822-8349-015C87C65C47}.png",
     "Заметки/Заметки по билдингу.md",
     "Заметки/Заметки по скриптам.md",
+    "Images/Pasted image 20260123190949.png",
+    "Заметки",
     "Images/{F8A8C725-B278-4370-AC52-722326101AB1}.png",
     "Images/{C0C98062-907E-4F34-9A3A-89184001A388}.png",
     "Images",
-    "Images/Pasted image 20260123190949.png",
     "Images/Pasted Image 20260121184513_506.png",
     "Images/Pasted Image 20260121184431_992.png",
     "Images/Pasted Image 20260121175126_382.png",
