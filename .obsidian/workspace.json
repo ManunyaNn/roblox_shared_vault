@@ -18,8 +18,23 @@
               "icon": "lucide-image",
               "title": "{7BD44D9C-253A-4822-8349-015C87C65C47}"
             }
+          },
+          {
+            "id": "011c7ad57f8a8cd1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -193,8 +208,10 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "f22d60454f29e567",
+  "active": "011c7ad57f8a8cd1",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "{7BD44D9C-253A-4822-8349-015C87C65C47}.png",
     "Images/Pasted image 20260124173018.png",
     "Images/Pasted image 20260124170616.png",
     "Images/Pasted image 20260124173202.png",
@@ -209,8 +226,6 @@
     "Images/Pasted image 20260124174613.png",
     "Images/Pasted image 20260124173206.png",
     "Images/Pasted image 20260124185338.png",
-    "Images/Pasted image 20260124183028.png",
-    "Images/Pasted image 20260124182930.png",
     "3D Штучки/ROBLOX STUDIO.md",
     "Заметки/Заметки по билдингу.md",
     "Заметки/Заметки по скриптам.md",
