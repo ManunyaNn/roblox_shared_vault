@@ -4,110 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "4bc689b356de13d7",
+        "id": "2b6fdec0f1de34c4",
         "type": "tabs",
         "children": [
           {
-            "id": "1380288347bf3a36",
+            "id": "f22d60454f29e567",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Привет ромчик.md",
-                "mode": "source",
-                "source": false
+                "file": "{7BD44D9C-253A-4822-8349-015C87C65C47}.png"
               },
-              "icon": "lucide-file",
-              "title": "Привет ромчик"
-            }
-          },
-          {
-            "id": "de59716b78ea0022",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Без названия.canvas",
-                "viewState": {
-                  "x": -142,
-                  "y": -113.5,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Без названия"
-            }
-          },
-          {
-            "id": "e42fa0c446e12d58",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основной Геймплей.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основной Геймплей"
-            }
-          },
-          {
-            "id": "2a678cb5527a3ed2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Основной Геймплей.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Основной Геймплей"
-            }
-          },
-          {
-            "id": "ddb74439e02b0d8c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "ПЛАН.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ПЛАН"
-            }
-          },
-          {
-            "id": "38509a128574e007",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Core_gameplay.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Core_gameplay"
-            }
-          },
-          {
-            "id": "dcaaa953156cd9ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки/Заметки по скриптам.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Заметки по скриптам"
+              "icon": "lucide-image",
+              "title": "{7BD44D9C-253A-4822-8349-015C87C65C47}"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -252,7 +164,7 @@
             }
           },
           {
-            "id": "714773cb140956ed",
+            "id": "d7636197438a3d23",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -281,33 +193,34 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "dcaaa953156cd9ad",
+  "active": "f22d60454f29e567",
   "lastOpenFiles": [
-    "{7BD44D9C-253A-4822-8349-015C87C65C47}.png",
+    "Images/Pasted image 20260124173018.png",
+    "Images/Pasted image 20260124170616.png",
+    "Images/Pasted image 20260124173202.png",
+    "Images/Pasted image 20260124173639.png",
+    "3D Штучки/BLENDER.md",
+    "Images/Pasted image 20260124185920.png",
+    "ПЛАН.md",
+    "Монетизация.md",
+    "Основной Геймплей.md",
+    "Core_gameplay.md",
+    "Images/Pasted image 20260124182214.png",
+    "Images/Pasted image 20260124174613.png",
+    "Images/Pasted image 20260124173206.png",
+    "Images/Pasted image 20260124185338.png",
+    "Images/Pasted image 20260124183028.png",
+    "Images/Pasted image 20260124182930.png",
+    "3D Штучки/ROBLOX STUDIO.md",
     "Заметки/Заметки по билдингу.md",
     "Заметки/Заметки по скриптам.md",
-    "Images/Pasted image 20260123190949.png",
+    "3D Штучки.md",
+    "3D Штучки",
+    "Заметки.md",
     "Заметки",
-    "Images/{F8A8C725-B278-4370-AC52-722326101AB1}.png",
-    "Images/{C0C98062-907E-4F34-9A3A-89184001A388}.png",
     "Images",
-    "Images/Pasted Image 20260121184513_506.png",
-    "Images/Pasted Image 20260121184431_992.png",
-    "Images/Pasted Image 20260121175126_382.png",
-    "Core_gameplay.md",
-    "ПЛАН.md",
-    "conflict-files-obsidian-git.md",
-    "Текстовый документ.txt",
-    "Основной Геймплей.md",
-    "Монетизация.md",
     "Без вапвыапывапывапрфвпр.md",
-    "Привет Марк.md",
-    "Pasted Image 20260121171922_612.png",
     "Drawing 2026-01-21 16.52.28.excalidraw.md",
-    "Excalidraw/Drawing 2026-01-21 18.25.34.excalidraw.md",
-    "Excalidraw",
-    "Привет ромчик.md",
-    "Без названия.canvas",
-    "Excalidraw/Drawing 2026-01-21 17.14.22.excalidraw.md"
+    "Привет Марк.md"
   ]
 }
