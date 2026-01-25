@@ -132,12 +132,14 @@
             "id": "0adc70e5dc9cc338",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ПЛАН.md"
+                "file": "Заметки/Заметки по скриптам.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ПЛАН"
+              "icon": "lucide-file",
+              "title": "Заметки по скриптам"
             }
           }
         ],
@@ -315,8 +317,11 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "0adc70e5dc9cc338",
+  "active": "ff184dbdf5719114",
   "lastOpenFiles": [
+    "Images/Pasted image 20260126023318.png",
+    "Images/Pasted image 20260126022737.png",
+    "ПЛАН.md",
     "Без названия.canvas",
     "Без названия 1.canvas",
     "Images/Pasted image 20260125200631.png",
@@ -333,8 +338,6 @@
     "Images/Pasted image 20260125201003.png",
     "Images/Pasted image 20260125184251.png",
     "Images/Pasted image 20260125183504.png",
-    "Images/Pasted image 20260125183005.png",
-    "ПЛАН.md",
     "Основной Геймплей.md",
     "Core_gameplay.md",
     "3D Штучки",
