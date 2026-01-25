@@ -96,12 +96,14 @@
             "id": "dcaaa953156cd9ad",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "ПЛАН.md"
+                "file": "3D Штучки/BLENDER.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "ПЛАН"
+              "icon": "lucide-file",
+              "title": "BLENDER"
             }
           }
         ],
@@ -281,6 +283,8 @@
   },
   "active": "dcaaa953156cd9ad",
   "lastOpenFiles": [
+    "3D Штучки/ROBLOX STUDIO.md",
+    "ПЛАН.md",
     "Основной Геймплей.md",
     "Images/{8FB0325F-0B04-4FA7-A184-9821E747089C}.png",
     "Images/Pasted image 20260125020121.png",
@@ -294,11 +298,9 @@
     "Images/Pasted image 20260124225157.png",
     "Images/Pasted image 20260124224919.png",
     "Core_gameplay.md",
-    "ПЛАН.md",
     "Монетизация.md",
     "Images/Pasted image 20260124213523.png",
     "Images/{7BD44D9C-253A-4822-8349-015C87C65C47}.png",
-    "3D Штучки/ROBLOX STUDIO.md",
     "3D Штучки",
     "Заметки",
     "Images",
