@@ -53,12 +53,14 @@
             "id": "31e0e0ff3aa301fe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Images/Pasted image 20260126135402.png"
+                "file": "3D Штучки/BLENDER.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260126135402"
+              "icon": "lucide-file",
+              "title": "BLENDER"
             }
           }
         ],
@@ -236,8 +238,9 @@
       "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "33f11a42820a0e49",
+  "active": "31e0e0ff3aa301fe",
   "lastOpenFiles": [
+    "Images/Pasted image 20260126135402.png",
     "Images/Pasted image 20260127155258.png",
     "3D Штучки/BLENDER.md",
     "Images/Pasted image 20260127165704.png",
@@ -249,7 +252,6 @@
     "Images/Pasted image 20260127162626.png",
     "Images/Pasted image 20260127162331.png",
     "Images/Pasted image 20260127162310.png",
-    "Images/Pasted image 20260127161356.png",
     "Заметки/Заметки по скриптам.md",
     "3D Штучки/ROBLOX STUDIO.md",
     "conflict-files-obsidian-git.md",
