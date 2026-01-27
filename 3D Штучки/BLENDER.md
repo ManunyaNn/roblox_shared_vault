@@ -149,3 +149,39 @@ ctrl+b-bevel (chamfer) СКМ добавляет углы для скругле�
  
  ![[Pasted image 20260125201003.png]]
  
+ Через Mesh-Mirror можно отзеркаливать объекты по XYZ
+ 
+ ![[Pasted image 20260126135402.png]]
+ 
+ 
+ Что бы сделать такой фонарик- Plane-mirror-clipping-subdivide-clipping-inset-g переместить в бок палку-ctrl+r+4+Пропорцеональное редактирование-нужный режим на ощуп+подвинуть точки-extrude+S и в стороны
+ ![[Pasted image 20260126144921.png]]
+ 
+ Что бы создать круговой массив предметов вокруг чего либо  (ПО АНАЛОГИИ С ЧАСАМ
+ И ИЗ 3DSMAX)
+ ![[Pasted image 20260126150914.png]]
+ 
+ Что бы делать это быстро - EDIT-REPEAT LAST (SHIFT+R) И снизу после shift+d нажать Linked
+
+ 
+ ![[Pasted image 20260126151024.png]]
+ 
+ ЧТО БЫ НЕ ВЫДЕЛЯТЬ ВСЕ ОБЪЕКТЫ ИЗ КОЛЛЕКЦИИ В РУЧНУЮ ![[Pasted image 20260126152207.png]]
+ 
+ Что бы рандомно подвигать множество объектов
+ 
+ Object-Transform-Randomize Transform![[Pasted image 20260126152502.png]]
+ 
+ Мод Array-копия мода Copy из 3DSMAX
+ ![[Pasted image 20260126161035.png]]
+ 
+ Что бы наложить текстуру чего либо объёмного-МОД DISPLACE
+ 
+ ![[Pasted image 20260126161420.png]]
+ 
+ Что бы перевести пивот множества объектов- G
+ ![[Pasted image 20260126161906.png]]
+
+Крыша-Array-и координаты
+
+![[Pasted image 20260126172810.png]]
