@@ -261,6 +261,10 @@ Curves в Color Managment -вниз затемнить-вверх засветл
 
 ![[Pasted image 20260128192055.png]]
 
+
+![[Pasted image 20260203150152.png]]
+ВКЛЮЧИТЬ STANDART В COLOR MANAGMENT-УВИДЕТЬ ЦВЕТА В КАК В РОБЛОКСЕ (БЫЛО AGX)
+
 ### Гайд на Vertex
 
 Заходим в vertex color в режиме solid
