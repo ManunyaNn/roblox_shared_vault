@@ -261,3 +261,23 @@ Curves в Color Managment -вниз затемнить-вверх засветл
 
 ![[Pasted image 20260128192055.png]]
 
+### Гайд на Vertex
+
+Заходим в vertex color в режиме solid
+
+![[Pasted image 20260208020000.png]]
+
+Для заливки выделяем либо всю модель, либо отдельные полигоны и во вкладке Paint выбираем Set Vertex Color для заливки
+
+![[Pasted image 20260208020054.png]]
+
+Далее создаем во вкладке Data новый color attribute и удаляем старый
+
+![[Pasted image 20260208020258.png]]
+
+Далее заходим в Shading создаем новый color attribute и выставляем ему созданный нами раннее цвет и соединяем с base color
+
+![[Pasted image 20260208020451.png]]
+
+![[Pasted image 20260208020655.png]]
+
