@@ -284,4 +284,36 @@ Curves в Color Managment -вниз затемнить-вверх засветл
 ![[Pasted image 20260208020451.png]]
 
 ![[Pasted image 20260208020655.png]]
+L-удобно выделять полигоны в круг
 
+![[Pasted image 20260209032241.png]]
+Select Random-рандомные полигоны
+![[Pasted image 20260209075940.png]]
+
+ЗАПЕКАНИЕ BAKE
+
+1.1-СОЗДАТЬ НОВУЮ UV И ВЫДЕЛИТЬ ЕЁ
+![[Pasted image 20260209081852.png]]
+ 
+ 1.2-UV EDITING-IMAGE-NEW-2048-NEW IMAGE
+ 
+![[Pasted image 20260209081947.png]]
+ 1.3 ПЕРЕЙТИ ТАК ЖЕ В UV EDITING- ВЫБРАТЬ ВСЕ ПОЛИГОНЫ "А"- ВКЛАДКА UV 
+ (СВЕРХУ СПРАВА)-SMART UV PROJECT-ISLAND MARGIN 0.01-UNWRAP
+ ![[Pasted image 20260209082110.png]]
+1.4 ДАЛЕЕ ПЕРЕЙТИ ВО ВКЛАДКУ SHADING-И ДАЛЬШЕ ПОЭТАПНО ВЫБИРАЯ КАЖДЫЙ ЦВЕТ МАТЕРИАЛА ДОБАВИТЬ ЕМУ IMAGE TEXTURE(CTRL+C) И ДОБАВИТЬ СОЗДАННОЕ НАМИ ИЗОБРАЖЕНИЕ (IMAGE TEXTURE ДОЛЖЕН БЫТЬ ВЫДЕЛЕН ОБЯЗАТЕЛЬНО)
+ ![[Pasted image 20260209082347.png]]
+ ![[Pasted image 20260209082246.png]]
+ 
+ 1.5 ПЕРЕХОДИМ В UV EDITING-ВЫБИРАЕМ ВСЕ ПОЛИГОНЫ (А) ДАЛЕЕ В НАСТРОЙКИ RENDER-RENDER ENGINE CYCLES
+ 1.6-В ВКЛАДКЕ РЕНДЕРА ТАК ЖЕ ПЕРЕХОДИМ В BAKE ВЫБИРАЕМ ТИП DIFFUSE СНИМАЕМ ГАЛОЧКИ С ПУНКТОВ DIRECT И INDIRECT-НАЖИМАЕМ BAKE
+ 1.7 ЕСЛИ ВСЁ ХОРОШО ТО СОХРАНЯЕМ ТЕКСТУРУ IMAGE (UV EDIT)-SAVE
+ 1.8 ДАЛЕЕ УДАЛЯЕМ СТАРУЮ UVMAP В ЗЕЛЁНОЙ ВКЛАДКЕ 
+ ![[Pasted image 20260209082922.png]]
+ 1.9 УДАЛЯЕМ ВСЕ МАТЕРИАЛЫ-BLENDER FILE-MATERIALS И IMAGES
+ 
+ ![[Pasted image 20260209083002.png]]
+ ![[Pasted image 20260209083040.png]]
+  2.1-ДОБАВЛЯЕМ НОВЫЙ МАТЕРИАЛ В ШАРИКЕ И ПОСЛЕ ЭТОГО В SHADING С ДОБАВЛЕНИЕМ НАШЕЙ СОЗДАНОЙ ТЕКСТУРЫ В IMAGE TEXTURE
+  ![[Pasted image 20260209083142.png]]
+  
