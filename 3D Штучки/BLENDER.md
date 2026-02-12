@@ -317,3 +317,9 @@ Select Random-рандомные полигоны
   2.1-ДОБАВЛЯЕМ НОВЫЙ МАТЕРИАЛ В ШАРИКЕ И ПОСЛЕ ЭТОГО В SHADING С ДОБАВЛЕНИЕМ НАШЕЙ СОЗДАНОЙ ТЕКСТУРЫ В IMAGE TEXTURE
   ![[Pasted image 20260209083142.png]]
   ![[Pasted image 20260211142656.png]]
+  
+  ![[Pasted image 20260212130940.png]]
+  
+  ![[Pasted image 20260212130950.png]]
+  
+  
